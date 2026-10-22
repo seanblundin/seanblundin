@@ -1,3 +1,5 @@
+<a href="https://seanblundin.com"><img src="assets/tv.webp" width="100%" alt="An old TV in a dark room flicks through the pages of seanblundin.com, then the camera dives into the home page"></a>
+
 # Hey, I'm Sean 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3000&pause=400&color=A855F7&vCenter=true&width=500&lines=full-time+vibecoder.+*cough*;*ahem*+...AI-native+full-stack+developer.;I+make+custom+websites+and+apps.;Click+here+to+learn+more!!!)](https://seanblundin.com)
